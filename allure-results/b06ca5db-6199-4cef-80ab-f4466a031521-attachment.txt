@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//ul[@id='ui-id-1']//li[1]\"}\n  (Session info: chrome=128.0.6613.85)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF710A7B602+29090]\n\t(No symbol) [0x00007FF7109EE6B9]\n\t(No symbol) [0x00007FF7108AB1CA]\n\t(No symbol) [0x00007FF7108FEFD7]\n\t(No symbol) [0x00007FF7108FF22C]\n\t(No symbol) [0x00007FF7109497F7]\n\t(No symbol) [0x00007FF71092672F]\n\t(No symbol) [0x00007FF7109465D9]\n\t(No symbol) [0x00007FF710926493]\n\t(No symbol) [0x00007FF7108F09B1]\n\t(No symbol) [0x00007FF7108F1B11]\n\tGetHandleVerifier [0x00007FF710D987FD+3294109]\n\tGetHandleVerifier [0x00007FF710DE43E3+3604355]\n\tGetHandleVerifier [0x00007FF710DDA2A7+3563079]\n\tGetHandleVerifier [0x00007FF710B36EE6+797318]\n\t(No symbol) [0x00007FF7109F983F]\n\t(No symbol) [0x00007FF7109F5424]\n\t(No symbol) [0x00007FF7109F55B0]\n\t(No symbol) [0x00007FF7109E4A4F]\n\tBaseThreadInitThunk [0x00007FF88DF1257D+29]\n\tRtlUserThreadStart [0x00007FF88F8EAF28+40]\n"
+}

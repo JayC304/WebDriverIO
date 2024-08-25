@@ -1,0 +1,49 @@
+{
+  "id": {
+    "sessionId": "e3a995c7f3cdbe16eaafc35648a46b84",
+    "elementId": "f.DFB8767F932A3593ED965850D2382B2B.d.5429D5D8B7C29926342E7C3696927651.e.216",
+    "element-6066-11e4-a52e-4f735466cecf": "f.DFB8767F932A3593ED965850D2382B2B.d.5429D5D8B7C29926342E7C3696927651.e.216",
+    "locator": {
+      "type": "css",
+      "value": "iframe"
+    },
+    "selector": "iframe",
+    "parent": {
+      "sessionId": "e3a995c7f3cdbe16eaafc35648a46b84",
+      "capabilities": {
+        "acceptInsecureCerts": false,
+        "browserName": "chrome",
+        "browserVersion": "128.0.6613.85",
+        "chrome": {
+          "chromedriverVersion": "128.0.6613.85 (5b672c5c04334afc4a7d0a025171853adedb799d-refs/branch-heads/6613@{#1336})",
+          "userDataDir": "C:\\Users\\ttanh\\AppData\\Local\\Temp\\scoped_dir25984_1760748152"
+        },
+        "fedcm:accounts": true,
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:57759"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webSocketUrl": "ws://localhost:57754/session/e3a995c7f3cdbe16eaafc35648a46b84",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:extension:minPinLength": true,
+        "webauthn:extension:prf": true,
+        "webauthn:virtualAuthenticators": true,
+        "wdio:driverPID": 25984
+      }
+    },
+    "isReactElement": false,
+    "isShadowElement": false
+  }
+}
